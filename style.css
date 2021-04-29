@@ -1,0 +1,89 @@
+body {
+    font-family: 'serif',times new roman;
+    min-height: 200px;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/518/710/original/abstract-technology-background-concept-circle-circuit-digital-metal-red-on-hi-tech-future-design-vector.jpg');
+    background-color: #000000;
+    background-size: 220vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: absolute;  
+    height: 100vh;
+  }
+  
+
+  .page-title {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: #ffffff;
+    right: 285px;
+    top:10px;
+    position:absolute;
+                
+  }
+  
+  .page-subtitle {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    top:70px;
+    right:350px;
+    position:absolute;
+    font-size: 20px;
+    font-weight: bold;
+   
+  }
+  
+  .page-logo {
+    width: 250px;
+    position:absolute;
+    right: 305px;
+    top: 125px;
+  }
+  
+  .alura-logo {
+    width: 60px;
+    position: absolute;
+    top: 50px;
+    right:10px;
+  }
+
+
+  .form input {
+  height: 40px;
+  position: absolute;
+  top: 200px;
+  right: 273px;  
+}
+.form button {
+    position:absolute;
+    border: 10;
+    border-radius: 50px;
+    border-color:black;
+    color: #000000;
+    background: #DF0101;
+    font-weight:bold;
+    padding: 15px 20px;
+    font-size: 30px;
+    border-radius: 50px;
+    top: 300px;
+    right: 335px; 
+    cursor: pointer;
+    transition: .3s;
+  }
+  
+  .form button:hover {
+    opacity:.7;
+  }
+
+ h2 {
+    background-color: white;
+    position: absolute;
+    font-size:22px;    
+    top: 240px; 
+    right:300px;
+    width: 250px;
+    height: 30px;
+    text-align:center;
+    border-radius: 20px;
+  }
