@@ -5,7 +5,7 @@
 * Resultado de uma aula da _Imersão Dev_ realizado pela Alura;
 * Foi usado HTML5, CSS3 e JavaScript;
 * Aula guiada, passo-a-passo, usando Alert;
-* Coloquei um botão estilizado e caixa para digitar ao invés de _Alerts_;
+* Coloquei um botão estilizado, usand hoover e caixa para digitar ao invés de _Alerts_;
 * Não é um conversor de moeda em tempo real, mas o valor fixo, da época em que fiz o projeto.
 
 :rocket: :rocket: :rocket:
